@@ -1,4 +1,4 @@
-# Solutions to Tuenti Challenge 9 by Alejandro Pinel Martínez
+# Tuenti Challenge 9 by Alejandro Pinel Martínez
 
 These are my solutions to some of the challenges for the Tuenti Challenge of 2018.
 
